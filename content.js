@@ -23,8 +23,9 @@ window.SITE = {
   tagline: "I [sim]design and simulate[/sim] flows, then [lab]build and test[/lab] the devices that use them.",
 
   about: [
-    "Mechanical and biomedical engineer with 6+ years across CFD, multiphysics simulation, microfluidics and fabrication. I work in a loop: design a device, simulate it, print it, and measure whether it behaves the way the model said.",
-    "I'm a PhD candidate at Penn State in the Active Biomaterials Lab, building enzyme-powered micropumps and micropropellers."
+    "Mechanical and biomedical engineer with 6+ years across CFD, multiphysics simulation, microfluidics and fabrication. I work in a loop: design a device, simulate it, fabricate it, and test whether it behaves the way the model said.",
+    "I'm currently a PhD candidate at Penn State, working in the Active Biomaterials Lab, where I develop enzyme-powered micropumps and micropropellers. My research combines fluid mechanics, transport phenomena, biochemical reactions, and microfabrication to create self-powered microscale systems.",
+    "Beyond device development, I work with large datasets generated from both simulations and experiments, integrating computational and experimental results to develop digital twins that can predict device behavior, uncover underlying mechanisms, and guide design optimization."
   ],
 
   links: {
